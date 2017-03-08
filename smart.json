@@ -1,0 +1,10 @@
+{
+  'name': 'errors',
+  'description': 'A pattern to display application errors to the user',
+  'homepage': 'https://github.com/dh1789/errors',
+  'author': 'Lee Dong Ho',
+  'version': '0.1.0',
+  'git': 'https://github.com/dh1789/errors.git',
+  'packages': {
+  }
+}
